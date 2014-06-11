@@ -1,4 +1,4 @@
-Learning Rails
-==
+learn-rail
+==========
 
-Learning Rails with a tutorial from the RailsApps project.
+new beginning of rails
